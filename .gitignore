@@ -1,0 +1,11 @@
+senpai_output/
+build/
+dist/
+*.zip
+*.dmg
+*.pkg
+*.exe
+*.app
+*.mltbx
+*.log
+.DS_Store
